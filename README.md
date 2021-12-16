@@ -2,7 +2,6 @@
 - 👀 I’m interested in operations research, statistics and machine learning
 - 🌱 I’m currently learning biostatitics in R, and Matlab
 - 💞️ I’m willing to collaborate!
-- 📫 Reach me at wilcoxm.carter@gmail.com
 
 <!---
 Howls-Moving-Workflow/Howls-Moving-Workflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
