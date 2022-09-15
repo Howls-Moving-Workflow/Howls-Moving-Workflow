@@ -1,6 +1,10 @@
 - Hi, I’m @Howls-Moving-Workflow
-- I’m interested in machine learning 
-- I’m currently working on several projects: MNIST with k-means, a library for network analysis, and some development for Xtalopt (computational chemistry software)
+- I am interested in data science/machine learning, physics, and product management 
+- I am working on algorithms at CERN (Large Hadron Collider, CMS detector) for detecting gluon jets using data science
+- Undergrad at the University at Buffalo
+- Math major 
+- Certificate in Data Oriented Computing
+- Minor in Economics
 - Go Bulls!
 
 <!---
