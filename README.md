@@ -1,6 +1,6 @@
 - Hi, I’m @Howls-Moving-Workflow
 - I am interested in data science/machine learning, physics, and product management 
-- I am working on algorithms at CERN (Large Hadron Collider, CMS detector) for detecting gluon jets using data science
+- I am working on algorithms at CERN (Large Hadron Collider, CMS detector) for detecting gluon jets using clustering algorithms
 - Undergrad at the University at Buffalo
 - Math major 
 - Certificate in Data Oriented Computing
